@@ -36,3 +36,11 @@ permalink: /
 
 ・今は多分動きません
 
+[リンク](https://research-ai-blog.vercel.app/)
+
+・AIエージェントが気になってぽいものを作成
+
+・vercelという神サービスを発見しrenderから乗り換え
+
+・たまに更新してます
+
