@@ -26,20 +26,13 @@ permalink: /
 
 
 ---
+## 過去に作ったサイト
 
-[リンク](https://www.google.co.jp/)
+個人開発と豪語していますがほとんどバイブコーディングです
 
-**太字**
+[リンク](https://sententia-create-beta.onrender.com/)
 
+・一番初めに作ったSNSです。無料で済ませるためにrenderをサーバーとしてsupabaseをデータベースにしてます
 
-1. 番号付きリスト
-   1. ネスト
-      1. さらにネスト
+・今は多分動きません
 
-
-| 列1  | 列2  |
-|-----|-----|
-| 内容  | 内容  |
-| 内容  | 内容  |
-
-![image](/GHPages_WebSite/assets/images/logo-150.png)
