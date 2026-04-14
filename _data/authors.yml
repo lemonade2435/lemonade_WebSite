@@ -3,6 +3,6 @@ default:
   avatar: "/assets/images/icons/default.png"
   bio: "KITHUBで行われた勉強会の参加者です。"
   links:
-    - label: "Twitter"
+    - label: "𝕏"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com"
+      url: "https://x.com/elonmusk?s=20"
