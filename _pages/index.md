@@ -28,13 +28,6 @@ permalink: /
 ---
 ## 過去に作ったサイト
 
-[リンク](https://research-ai-blog.vercel.app/)
-
-・AIエージェントが気になってぽいものを作成
-
-・vercelという神サービスを発見しrenderから乗り換え
-
-・たまに更新してます
 
 
 個人開発と豪語していますがほとんどバイブコーディングです
@@ -44,6 +37,16 @@ permalink: /
 ・一番初めに作ったSNSです。無料で済ませるためにrenderをサーバーとしてsupabaseをデータベースにしてます
 
 ・今は多分動きません
+
+
+
+[リンク](https://research-ai-blog.vercel.app/)
+
+・AIエージェントが気になってぽいものを作成
+
+・vercelという神サービスを発見しrenderから乗り換え
+
+・たまに更新してます
 
 
 
